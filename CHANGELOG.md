@@ -1,3 +1,5 @@
+### [2.0.1]
+- Support IE11 when `ignore-accents` is true
 ## [2.0.0] Major Update
 - Upgraded to Angular 6 and RxJS 6
 - Added new property `ignore-accents`, default is `true`
